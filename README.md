@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am Senior Software Engineer at @Trendyol
 
 
